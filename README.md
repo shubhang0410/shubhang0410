@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**shubhang0410/shubhang0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Shubhang Gund**, a Computer Science student at **KIIT University**.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 B.Tech CSE @ KIIT University  
+- 💻 Interested in Programming, Databases, and Software Development  
+- 🌱 Currently learning Java, SQL, and core CS concepts  
+- 🏆 Bronze Medalist – 25th District Shito-Ryu Karate Open Championship (2017)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I'm Working With
+- Java  
+- SQL  
+- Git & GitHub  
+
+## Connect With Me
+📧 shubhang04102005@gmail.com  
+  
